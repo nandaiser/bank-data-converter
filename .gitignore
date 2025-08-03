@@ -5,6 +5,9 @@ __pycache__/
 venv/
 
 .env
+*.xlsx
+*.xls
+data/
 
 .DS_Store
 Thumbs.db
